@@ -39,10 +39,11 @@ Sample from **chapter 10**. Book: Java Game Development with LibGDX
 
 ![alt text](https://github.com/wagnerjfr/libgdx-samples/blob/main/img/starfish-game.png)
 
-### 2.5. RaceGame _(coming soon)_
+### 2.5. RaceGame
 My own game developed by using some ideas and resources from the samples above.
 
 ![alt text](https://github.com/wagnerjfr/libgdx-samples/blob/main/img/race-game.png)
 
 ## 3. References
 - Java Game Development with LibGDX (http://www.apress.com/9781484233238) by Lee Stemkoski (Apress, 2018)
+- https://github.com/Apress/java-game-dev-LibGDX
