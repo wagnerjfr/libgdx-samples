@@ -24,7 +24,7 @@ Sample games from books, websites and developed by me. Ready to run!
 
 ![alt text](https://github.com/wagnerjfr/libgdx-samples/blob/main/img/simple-game.png)
 
-### 2.2. SpaceGame _(coming soon)_
+### 2.2. SpaceGame
 Sample from **chapter 4**. Book: Java Game Development with LibGDX
 
 ![alt text](https://github.com/wagnerjfr/libgdx-samples/blob/main/img/space-game.png)
