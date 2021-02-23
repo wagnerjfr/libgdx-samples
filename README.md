@@ -34,7 +34,7 @@ Sample from **chapter 6**. Book: Java Game Development with LibGDX
 
 ![alt text](https://github.com/wagnerjfr/libgdx-samples/blob/main/img/rhythm-game.png)
 
-### 2.4. StartfishGame _(coming soon)_
+### 2.4. StartfishGame
 Sample from **chapter 10**. Book: Java Game Development with LibGDX
 
 ![alt text](https://github.com/wagnerjfr/libgdx-samples/blob/main/img/starfish-game.png)
