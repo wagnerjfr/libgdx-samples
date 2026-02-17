@@ -1,5 +1,7 @@
 ## Java
 
+.DS_Store
+
 *.class
 *.war
 *.ear
