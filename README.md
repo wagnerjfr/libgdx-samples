@@ -5,8 +5,28 @@ Sample games from books, websites and developed by me. Ready to run!
 ## 1. Running :runner:
 
 ### 1.1. Gradle on the Commandline
+**Prereqs:**
+* Java **17+** (recommended)
+* No need to install Gradle globally (the projects include a Gradle Wrapper)
+
+Steps:
 * Clone the repository or download and extract the ZIP file
-* Go to the game's folder and run: `gradle desktop:run`
+* Go to the game’s folder (e.g. `RaceGame/`) and run:
+  
+  ```bash
+  ./gradlew clean :desktop:run
+  ```
+
+Examples:
+```bash
+cd RaceGame
+./gradlew clean :desktop:run
+```
+
+```bash
+cd SpaceGame
+./gradlew clean :desktop:run
+```
 
 ### 1.2. IDEA
 * [Setup your development environment](https://github.com/libgdx/libgdx/wiki)
@@ -16,6 +36,10 @@ Sample games from books, websites and developed by me. Ready to run!
   * [Intellij IDEA](https://github.com/libgdx/libgdx/wiki/Gradle-and-Intellij-IDEA)
   * [NetBeans](https://github.com/libgdx/libgdx/wiki/Gradle-and-NetBeans)
   * [Commandline|Gradle on the Commandline](https://github.com/libgdx/libgdx/wiki/Gradle-on-the-Commandline)
+
+Notes:
+* If you’re using IntelliJ, you can run the `desktop:run` Gradle task from the Gradle tool window.
+* On macOS you might see an OpenAL message like `AudioUnitInitialize failed` depending on your audio device; builds will still run.
 
 ## 2. Games :neckbeard:
 
